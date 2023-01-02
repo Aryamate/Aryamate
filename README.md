@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Aryamate
-- 👀 I’m interested in ...Core java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m B.com computer Application Student,Dhanwate National College Nagpur University
 
+- 🌱 I’m currently learning Java8 and java17(Avd Java),HTML5,CSS3,Sql
 
 
 <!---
